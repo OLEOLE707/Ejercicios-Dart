@@ -41,32 +41,6 @@ Ejercicios-Dart/
 <li><strong>GitHub:</strong> Gestión y almacenamiento del código.</li>
 </ul>
 
-<h2>🚀 Ejecución del proyecto</h2>
-
-<ol>
-<li>Clonar el repositorio:</li>
-</ol>
-
-<pre>
-git clone URL_DEL_REPOSITORIO
-</pre>
-
-<ol start="2">
-<li>Acceder a la carpeta del proyecto:</li>
-</ol>
-
-<pre>
-cd Ejercicios-Dart
-</pre>
-
-<ol start="3">
-<li>Ejecutar un archivo Dart:</li>
-</ol>
-
-<pre>
-dart run nombre_archivo.dart
-</pre>
-
 <h2>👨‍💻 Autor</h2>
 
 <p>
