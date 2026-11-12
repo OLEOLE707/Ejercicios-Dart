@@ -1,47 +1,86 @@
 🟣 Ejercicios-Dart
 
-Repositorio dedicado a la realización de ejercicios prácticos utilizando el lenguaje de programación Dart.
+<h1 align="center">Ejercicios de Dart 💜</h1>
 
-📌 Descripción
+<p align="center">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Estado-En%20desarrollo-green?style=for-the-badge" alt="Estado">
+</p>
 
-Este proyecto contiene diferentes ejercicios y prácticas desarrollados con Dart, con el objetivo de aprender, reforzar y mejorar los conocimientos sobre programación.
+<h2>📌 Descripción</h2>
 
-📂 Estructura del proyecto
-text
+<p>
+Este repositorio contiene una colección de ejercicios prácticos realizados con el lenguaje de programación <strong>Dart</strong>, con el objetivo de aprender y reforzar los conocimientos sobre programación.
+</p>
+
+<h2>📂 Estructura del proyecto</h2>
+
+<pre>
 Ejercicios-Dart/
 │
 └── Relacion1/
-    └── Ejercicios de la primera relación
+└── Ejercicios de la primera relación
+</pre>
 
-🎯 Objetivos
-Practicar la sintaxis del lenguaje Dart.
-Comprender los fundamentos de la programación.
-Resolver problemas mediante ejercicios prácticos.
-Mejorar la lógica y el pensamiento computacional.
-Organizar y documentar el código.
-🛠️ Tecnologías utilizadas
-Dart – Lenguaje de programación.
-Git – Control de versiones.
-GitHub – Almacenamiento y gestión del repositorio.
-🚀 Cómo utilizar el proyecto
-Clonar el repositorio:
-bash
-git clone <URL_DEL_REPOSITORIO>
+<h2>🎯 Objetivos</h2>
 
-Entrar en la carpeta del proyecto:
-bash
+<ul>
+<li>Aprender los fundamentos de Dart.</li>
+<li>Practicar la sintaxis del lenguaje.</li>
+<li>Desarrollar la lógica de programación.</li>
+<li>Resolver diferentes problemas mediante ejercicios.</li>
+<li>Mejorar las habilidades de programación.</li>
+</ul>
+
+<h2>🛠️ Tecnologías utilizadas</h2>
+
+<ul>
+<li><strong>Dart:</strong> Lenguaje de programación.</li>
+<li><strong>Git:</strong> Control de versiones.</li>
+<li><strong>GitHub:</strong> Gestión y almacenamiento del código.</li>
+</ul>
+
+<h2>🚀 Ejecución del proyecto</h2>
+
+<ol>
+<li>Clonar el repositorio:</li>
+</ol>
+
+<pre>
+git clone URL_DEL_REPOSITORIO
+</pre>
+
+<ol start="2">
+<li>Acceder a la carpeta del proyecto:</li>
+</ol>
+
+<pre>
 cd Ejercicios-Dart
+</pre>
 
-Acceder a la relación de ejercicios:
-bash
-cd Relacion1
+<ol start="3">
+<li>Ejecutar un archivo Dart:</li>
+</ol>
 
-Ejecutar los archivos Dart:
-bash
+<pre>
 dart run nombre_archivo.dart
+</pre>
 
-👨‍💻 Autor
+<h2>👨‍💻 Autor</h2>
 
-OLEOLE707
+<p>
+<strong>OLEOLE707</strong>
+</p>
 
-⭐ Repositorio creado con fines educativos para practicar y aprender programación con Dart.
+<h2>📄 Licencia</h2>
+
+<p>
+Este proyecto tiene fines educativos y de aprendizaje.
+</p>
+
+<hr>
+
+<p align="center">
+💜 Desarrollado para aprender y practicar Dart.
+</p>
